@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raman
-- 👀 I’m interested in Robotics, seld driving vehicles, computer vision.
-- 🌱 I’m currently learning ROS, Python, self driving vehicles.
-- 💞️ I’m looking to collaborate on computer vision, ROS.
+- 👀 I’m interested in Robotics, Self driving vehicles, Computer vision.
+- 🌱 I’m currently learning ROS, Python, Self driving vehicles.
+- 💞️ I’m looking to collaborate on Computer vision, ROS.
 - 📫 How to reach me chandhra19999@gmail.com .
 
 <!---
